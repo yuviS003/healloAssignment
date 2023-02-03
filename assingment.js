@@ -18,6 +18,7 @@ const assignment2 = (input) => {
 };
 console.log(assignment2([{ a: 1 }, { b: 2 }, { c: 3 }]));
 
+// Calculate number of handshakes
 const assignment3 = (n) => {
   return (n * (n - 1)) / 2;
 };
